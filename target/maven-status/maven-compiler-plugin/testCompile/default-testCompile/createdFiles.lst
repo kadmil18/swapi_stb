@@ -1,0 +1,4 @@
+base\BaseTest.class
+swapi\GetStarshipsTest.class
+swapi\GetCharacterTest.class
+swapi\PostCharacterTest.class
